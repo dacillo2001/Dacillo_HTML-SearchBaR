@@ -1,0 +1,30 @@
+{
+    "courses": [
+      {
+        "year": "1st Year",
+        "semester": "1st Semester",
+        "subjects": ["Introduction to Computing", "Programming 1", "Mathematics in IT", "Communication Skills", "Physical Education 1"]
+      },
+      {
+        "year": "1st Year",
+        "semester": "2nd Semester",
+        "subjects": ["Programming 2", "Web Development Basics", "Discrete Mathematics", "Technical Writing", "Physical Education 2"]
+      },
+      {
+        "year": "2nd Year",
+        "semester": "1st Semester",
+        "subjects": ["Data Structures", "Object-Oriented Programming", "Database Systems", "Networking Fundamentals", "Physical Education 3"]
+      },
+      {
+        "year": "2nd Year",
+        "semester": "2nd Semester",
+        "subjects": ["Software Engineering", "Advanced Web Development", "Operating Systems", "Ethics in IT", "Physical Education 4"]
+      },
+      {
+        "year": "3rd Year",
+        "semester": "1st Semester",
+        "subjects": ["Mobile App Development", "Artificial Intelligence", "Cloud Computing", "Capstone Project 1", "Elective 1"]
+      }
+    ]
+  }
+  
